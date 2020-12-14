@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T07:13:25.709Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.10.4" etag="HuQdur70Jp0bm0vkJ3K6" type="github"><diagram id="k4uElIavTMxpdspw6L33">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T07:33:44.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jCl7qMaG4T4A09hsLqas" version="13.10.4" type="github">
+  <diagram id="k4uElIavTMxpdspw6L33" name="Page-1">
+    <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N6jY5xIE-h6yJavLsTbK-2" target="N6jY5xIE-h6yJavLsTbK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N6jY5xIE-h6yJavLsTbK-2" target="N6jY5xIE-h6yJavLsTbK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="90" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-3" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="280" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N6jY5xIE-h6yJavLsTbK-4" target="N6jY5xIE-h6yJavLsTbK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-4" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N6jY5xIE-h6yJavLsTbK-5" target="N6jY5xIE-h6yJavLsTbK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-14" value="后台&lt;br&gt;&lt;br&gt;1.添加部门&lt;br&gt;2.编辑部门(指定部门主管)&lt;br&gt;3.添加子部门&lt;br&gt;4.选择成员&lt;br&gt;5.移动部门&lt;br&gt;6.添加成员" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="N6jY5xIE-h6yJavLsTbK-16" value="前台&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="120" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
